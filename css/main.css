@@ -1,4 +1,10 @@
+@font-face {
+    font-family: "handtiesto";
+    src: url("../_assets/fonts/handtiesto.ttf");
+}
+
 body {
+    font-family:"handtiesto";
     margin: 60px auto;
     width: 70%;
 }
@@ -22,11 +28,9 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:"handtiesto";
-    src: url("../_assets/fonts/handtiesto.ttf");
 }
 p {
     font-family:"handtiesto";
-    src: url("../_assets/fonts/handtiesto.ttf");
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
