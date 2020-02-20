@@ -3,6 +3,7 @@
     src: url("../_assets/fonts/handtiesto.ttf");
     src: url("{{ site.url }}/_assets/fonts/handtiesto.ttf");
     src: url("../assets/fonts/handtiesto.ttf");
+    src: url(".../handtiesto.ttf");
 }
 
 body {
