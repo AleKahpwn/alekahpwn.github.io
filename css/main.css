@@ -1,9 +1,6 @@
 @font-face {
     font-family: "handtiesto";
-    src: url("../_assets/fonts/handtiesto.ttf");
-    src: url("{{ site.url }}/_assets/fonts/handtiesto.ttf");
-    src: url("../assets/fonts/handtiesto.ttf");
-    src: url(".../handtiesto.ttf");
+    src: url("https://alekahpwn.github.io/handtiesto.ttf");
 }
 
 body {
